@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Compras Rápida",
+  "description": "Una aplicación simple para calcular rápidamente el total de las compras. Agregue artículos, ingrese precios y descuentos, y obtenga el total al instante.",
+  "requestFramePermissions": []
+}
